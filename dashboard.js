@@ -50,9 +50,9 @@ io.sockets.on('connection', function(socket) {
 
 function CreateTwitter() {
 twit = new twitter({
-    consumer_key: '',
-    consumer_secret: '',
-    access_token_key: '',
-    access_token_secret: ''
+    consumer_key: 'PihGFOQtf4W6os4GWihow',
+    consumer_secret: 'n817glyTYOTGwOibFYHlxe0n8pkgp605mjgrWfL5Ss',
+    access_token_key: '566571968-9vgdljO3gUaOGFE1gFOkdNgmbiJrMJCFUm42Zo5s',
+    access_token_secret: '2cZuFUVKAA8VdrNEE81oTGlqKEGDCdU3tZO1qcZU2U'
 });
 }
